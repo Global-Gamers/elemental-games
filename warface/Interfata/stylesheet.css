@@ -1,0 +1,95 @@
+body {
+     margin:0px;
+     }
+.banner{
+        height:400px;
+       }
+#bannerimg{
+            width:100%;
+			height:400px;
+          }
+.content{
+         background-color:blue;
+		}
+.right{
+        background:url("ashe.jpg");
+		width:20%;
+		height:800px;
+		background-size:100% 100%;
+		background-repeat:no-repeat;
+		float:left;
+		margin-left:0px;
+		margin-right:0px;
+	   }
+.left{
+      background:url("jinx.png");
+      width:20%;
+      height:800px;
+      background-size:100% 100%;
+      background-repeat:no-repeat;
+      float:left;
+		margin-left:0px;
+		margin-right:0px;	  
+	 }
+.middle{
+        background:linear-gradient(to right,rgb(99,71,83),rgb(16,26,28));
+		float:left;
+		margin-left:0px;
+		margin-right:0px;
+		height:800px;
+		width:60%;
+       }
+.menulink{
+           width:22%;
+		   display: inline-block;
+			margin: 0px;
+			text-align:center;
+			text-decoration: none;
+			border-style:solid;
+			border-color:red;
+			margin:0px;
+			border-left-width:9px;
+			border-right-width:9px;
+         }	
+a:link {
+       	color:white;					
+	   }
+a:visited {
+          color:white;
+		  }				
+.menu{
+       padding-left:12px;
+	   
+     }
+#PVZ{
+      background-image:url("pvzgdwe.png");
+	   width:300px;
+	  height:300px;
+	  background-size:100%;
+	  background-repeat:no-repeat;
+    }
+.game{
+      width:300px;
+	  height:300px;
+	  float:left;
+	  margin:15px
+	  }
+     
+.pgcontent{
+           padding:30px;
+          }
+#warface{
+         background-image:url("wfe.jpg");
+	   width:300px;
+	  height:300px;
+	  background-size:100%;
+	  background-repeat:no-repeat;
+        }
+#fnf{
+     background-image:url("fnffre.png");
+	   width:300px;
+	  height:300px;
+	  background-size:100%;
+	  background-repeat:no-repeat;
+    }		
+	   
