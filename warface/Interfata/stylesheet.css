@@ -91,5 +91,17 @@ a:visited {
 	  height:300px;
 	  background-size:100%;
 	  background-repeat:no-repeat;
-    }		
+    }
+.textmr{
+         color:red;
+		 text-align:center;
+        }
+#brs{
+     background-image:url("borderl2.jpg");
+	  height:300px;
+	  background-size:100%;
+	  background-repeat:no-repeat;
+     }
+
+   	
 	   
